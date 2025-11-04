@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ofDka6PS/versions/TyyAGu7a/spawn-animations-compats-12.0.jar"
-hash-format = "sha512"
-hash = "1b6ee1a50878d3c80985f693c2622502184ac88938d2011cba03857717ab1f47872f403d8c1bb5a2a51efe2539cb9ad0ebd118b3a18d4d07dbc7978a133f37db"
+hash-format = "sha256"
+hash = "2ece9b9cbb2e658a2ebf5baa33b0f667aeb1b7a73f378f8642fd82db94d2ce70"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d7b36bdbcc52743023043fc1dafb5aee0e4a43ba"
+hash-format = "sha256"
+hash = "a12f393691d4125c94c0e059592c2e54b1b21e4f887597fccb3a8f743d4cec63"
 mode = "metadata:curseforge"
 
 [update]

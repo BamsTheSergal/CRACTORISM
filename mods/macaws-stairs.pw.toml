@@ -3,8 +3,8 @@ filename = "mcw-stairs-1.0.1-1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "90f3a4002518d5c03353891498f8ad7b55332d2d"
+hash-format = "sha256"
+hash = "2e79425f5dfe585947270063f71e4fc14ef59f1bcd6911a489e879121e1e0b94"
 mode = "metadata:curseforge"
 
 [update]

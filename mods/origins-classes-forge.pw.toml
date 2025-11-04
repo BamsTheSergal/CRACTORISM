@@ -3,8 +3,8 @@ filename = "origins-classes-forge-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "63e099d2faf0785e667b17b1d9db7a4648805ed3"
+hash-format = "sha256"
+hash = "c03be54d04c53d7126ab7f878330580a1ffad8308e35238acac04bacc62af139"
 mode = "metadata:curseforge"
 
 [update]

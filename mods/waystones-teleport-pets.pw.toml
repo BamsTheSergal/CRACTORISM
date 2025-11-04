@@ -3,8 +3,8 @@ filename = "WaystonesTeleportPets-1.20-1.20.1--1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d64055c58edcdbedfd6ebc40dba0b678a6818e57"
+hash-format = "sha256"
+hash = "dd6155569fb347e808202e7c32e1b80e3d867eb1e9579dc9ea05eb4411078de1"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "walkers-5.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9cb27730da367094601a84e5994dd6690002f5e"
+hash-format = "sha256"
+hash = "cf72cc28f569ca9509164759ebb6d5f1d498dd5bc92c701378638a62e1c565d4"
 mode = "metadata:curseforge"
 
 [update]

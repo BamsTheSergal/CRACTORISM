@@ -3,8 +3,8 @@ filename = "Sounds-2.2.1+1.20.1+forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e75686799054958804d711b1b6ceef4d132764b8"
+hash-format = "sha256"
+hash = "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
 mode = "metadata:curseforge"
 
 [update]

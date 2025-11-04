@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zrzYrlm0/versions/YW1ZN5zl/spawnanimations-v1.10.1-mc1.17-1.21.5-mod.jar"
-hash-format = "sha512"
-hash = "be2c1edc675d18f77ce69b7cd8291e8c8f682362074c6b4fee63fe02c6d4d39cfde9b18ab61dcd4fe6fab3901c67da833d0efb11d77cbf593d1b5151dc9bf31c"
+hash-format = "sha256"
+hash = "ef942fa31e5281b80e4fd4692d197774bb0e8be6486f75f5d584951e29175def"
 
 [update]
 [update.modrinth]

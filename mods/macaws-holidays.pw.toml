@@ -3,8 +3,8 @@ filename = "mcw-mcwholidays-1.1.1-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fa601a5304f30750fe2e6a50a10e4d6039426086"
+hash-format = "sha256"
+hash = "bdfc2db24c71c40b19c136666a12460556f9f39e49bb2092d6881b67f42896de"
 mode = "metadata:curseforge"
 
 [update]

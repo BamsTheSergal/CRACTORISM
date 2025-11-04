@@ -3,8 +3,8 @@ filename = "origins-vampire-v2.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07ed4246856aff81d0ef6fa82aefa91e4a8fafd0"
+hash-format = "sha256"
+hash = "16074ba644b0fdc765e2ad0dc0ce2fed0f4a117cae389f58871fdddcdb39ce95"
 mode = "metadata:curseforge"
 
 [update]

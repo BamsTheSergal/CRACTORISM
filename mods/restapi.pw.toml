@@ -3,8 +3,8 @@ filename = "restApi-0.10.1-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c58c467aacb70403c44a880a8b425ae4d7079775"
+hash-format = "sha256"
+hash = "751a23e2898d8d04bf5e08a81a36a6399303b3d50d5089449b20f6c89b912990"
 mode = "metadata:curseforge"
 
 [update]

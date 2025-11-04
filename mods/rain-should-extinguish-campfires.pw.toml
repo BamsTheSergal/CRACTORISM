@@ -3,8 +3,8 @@ filename = "rsec-1.1-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "41f10cd4b0800fbdff6a95c0efeeb46195243aaa"
+hash-format = "sha256"
+hash = "8f3ecf550c3a19381bae5d1237512d77af449cff9e4d391f7ac270ea2242bf13"
 mode = "metadata:curseforge"
 
 [update]

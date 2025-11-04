@@ -3,8 +3,8 @@ filename = "suppsquared-1.20-1.1.26.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d564561b2676a683799fe6c8d34999cc8c9d123a"
+hash-format = "sha256"
+hash = "e374abc6ff4d948a27bbc29b85c66a15ae7ce7a6f5190cf7083607d5632a832f"
 mode = "metadata:curseforge"
 
 [update]

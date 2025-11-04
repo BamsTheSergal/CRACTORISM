@@ -3,8 +3,8 @@ filename = "SnowRealMagic-1.20.1-Forge-10.6.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b685744524d2f7b9c5590be27f81dc6b8b1c5506"
+hash-format = "sha256"
+hash = "02dbdb449bc38e3dcf33771a8cc75d50be1ebc0818080cd0e2e33a0be0231eec"
 mode = "metadata:curseforge"
 
 [update]

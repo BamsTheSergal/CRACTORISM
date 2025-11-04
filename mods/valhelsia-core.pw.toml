@@ -3,8 +3,8 @@ filename = "valhelsia_core-forge-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5e88feef805d15ffbe3c0918f53d6ed213a7dc6a"
+hash-format = "sha256"
+hash = "d52ae1941c76ff57ee61943b38b5ae95a1e4bffa39604946bee1cfe52964f690"
 mode = "metadata:curseforge"
 
 [update]

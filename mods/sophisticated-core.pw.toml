@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/nmoqTijg/versions/TeINP0pI/sophisticatedcore-1.20.1-1.2.106.1235.jar"
-hash-format = "sha512"
-hash = "98292e9c62a5e44e1cf09fcfff32083d3ffcc9190058dc5f56c5023cfa9f0abe441f56a9e755dce6af4864438d7032558ce2598ba956bf73f039f3432dc7c163"
+hash-format = "sha256"
+hash = "ed80e10ce1029f64f43fb346c4c9926b42c7f03ce88a70657db3b08c8405ded7"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "mcw-paintings-1.0.5-1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "47455c48ff84c0ba42936a95a1bb3709689e24cf"
+hash-format = "sha256"
+hash = "15cbcb45eee018bc0ceb87497834a18eb9bf372961f9e95e823054580cadfa61"
 mode = "metadata:curseforge"
 
 [update]

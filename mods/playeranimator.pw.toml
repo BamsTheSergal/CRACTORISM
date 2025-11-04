@@ -3,8 +3,8 @@ filename = "player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+hash-format = "sha256"
+hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 mode = "metadata:curseforge"
 
 [update]

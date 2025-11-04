@@ -3,8 +3,8 @@ filename = "mcw-doors-1.1.2-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "731069f0a9c1377da0681415b6523e71439ae014"
+hash-format = "sha256"
+hash = "ca3f93a513f692b28456d1df0bb562ff27564539307618602462ef0d262384a0"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "tarotcards-1.20-1.7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "00ee596546f6a975bde19976f5da58260e6ea95b"
+hash-format = "sha256"
+hash = "2ef1cd1476ba6ccb81eba28f9247271c3318b2f154b2623af17453125dccfdce"
 mode = "metadata:curseforge"
 
 [update]

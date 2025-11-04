@@ -3,8 +3,8 @@ filename = "unlitcampfire-forge-1.20.1-1.9.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c7e55778a1fe3f4ea6660dd7562b2c0576ece5e"
+hash-format = "sha256"
+hash = "92414804add7ba94c5969a29c6fa054d0d98c073405acbf7622d3ec179ad1b32"
 mode = "metadata:curseforge"
 
 [update]
