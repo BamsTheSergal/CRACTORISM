@@ -1,6 +1,430 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/book_1.png"
+hash = "d2aae6690defeda38de08fdcb96fa21462d92d85d9e37eadc78d3855e61ac475"
+
+[[files]]
+file = "config/fancymenu/assets/exit.ogg"
+hash = "4209af493ee7d08424be6c52ac79a330857e7a0c0cfe43446d06f5cf1b88be62"
+
+[[files]]
+file = "config/fancymenu/assets/faneffect.ogg"
+hash = "6b9484c39061e51209524ff06aabd0e38d715d626ee500472ee7a646a37b96a0"
+
+[[files]]
+file = "config/fancymenu/assets/fibberish.ttf"
+hash = "598d43191ba2c9955de49dbf2410ade76f878f9be805cfcab9aa1000830d6fac"
+
+[[files]]
+file = "config/fancymenu/assets/ficsitinc.ogg"
+hash = "9718104d89d7e02d5bde5e455d6528da575ca74a732ed66493c304bd15ceced4"
+
+[[files]]
+file = "config/fancymenu/assets/frame.png"
+hash = "fcb52cbc50456f0e47ca60572583e3464838a72a0cb92f076389cd488869db56"
+
+[[files]]
+file = "config/fancymenu/assets/fullytransparent.png"
+hash = "cf2f186ade63c7ce8fcd0468fc7846729bf4259fd4503fd999aae8eb3ebb9849"
+
+[[files]]
+file = "config/fancymenu/assets/meowrgh.ogg"
+hash = "693f9677646a11307e797158b775e8c2a7b382fee4fcdde138ef014800136cd3"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft.png"
+hash = "413c0172cb18b3ca89e0ad03de08b3b96cf46240d28b82c93113cb5c4d2054c4"
+
+[[files]]
+file = "config/fancymenu/assets/nostalgium.ogg"
+hash = "91c19ac4f05fa76f0a6cef7ceb8a1f155f3d3c1eaa3a10ea1d49aa19c4bed220"
+
+[[files]]
+file = "config/fancymenu/assets/open.ogg"
+hash = "e0e7f128e06c3e78ae2566f494221c4653245d244746ae796a09ef8a1b15b670"
+
+[[files]]
+file = "config/fancymenu/assets/pram/panorama_0.png"
+hash = "84eee0ff44744a4e4278d79d26bb551309934e24903d9f05cd553d9ddc3d3d8a"
+
+[[files]]
+file = "config/fancymenu/assets/pram/panorama_1.png"
+hash = "4eb948f80fc3a5cc1e82a3d67eda83eb837265abf30c8ba3093d6803300a6904"
+
+[[files]]
+file = "config/fancymenu/assets/pram/panorama_2.png"
+hash = "83d10be39a07cdd13c0d1c9e6539464ccc6f279c5ce75b1ef174c40ffd98562f"
+
+[[files]]
+file = "config/fancymenu/assets/pram/panorama_3.png"
+hash = "76c3d81affa7cd4ec52e08d6708869df8b2499a308cac5ad946143fd7fe426bf"
+
+[[files]]
+file = "config/fancymenu/assets/pram/panorama_4.png"
+hash = "0b426ff163b124d97e89d74883f7e96e55a790b0050954e34c29e03e0d9cd34a"
+
+[[files]]
+file = "config/fancymenu/assets/pram/panorama_5.png"
+hash = "8120620ba6870901a6607b27b51a57ff91441a50f672662490c3f6fd401f5841"
+
+[[files]]
+file = "config/fancymenu/assets/sfx1.mp3"
+hash = "5e8b9dbf8708f852ef1588d03fa9fbe710e24c924e044e3adc33602e3759d661"
+
+[[files]]
+file = "config/fancymenu/assets/sfx1.ogg"
+hash = "b27a97a7da5997fe3c152556b16955cf5eecfba12c82c5e9c973096be9a902df"
+
+[[files]]
+file = "config/fancymenu/assets/sfx2.mp3"
+hash = "811d7971075f540e62e4330df81894341e68efe7e9d6e57c98f5951d576c2b97"
+
+[[files]]
+file = "config/fancymenu/assets/sfx2.ogg"
+hash = "9f6d6730c8af7d21074f27038bf959d948ecbe4f91ea65948558811dd72f5a34"
+
+[[files]]
+file = "config/fancymenu/assets/sfx3.ogg"
+hash = "eb5c49ddc54ef848af8d9a60e2e0c6c82eb1fb2a6d5069d70cc181c0ce568600"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ02QBbXEAAGCwU.jfif"
+hash = "2123b17283b3ecd4e1903bdcf356c69add3bb6de490108e2fa3e305b258fb340"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ0dTvMWAAAvMXl.jfif"
+hash = "ae78677c5d63f8977642a6181c5b01154cd25dd9e35238fa328e6e93e7b97637"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ0gPzGWMAMeMGo.jfif"
+hash = "c639736a8578dd1942e0c0db0539a9924f79e91235493c18f7be78722b4ceb03"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ2gWaVaEAE37wb.jfif"
+hash = "f683c1195e75acd6cf879da1bbc7201c34f857e3be39eb4387c7759377c9f449"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ2mrqPWkAARZnM.jfif"
+hash = "224e62a169c861da3ca5e3ead6fa1fb64a6f63594c06966c02259ba4b7bc5dbe"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ2vlvHakAAB0uv.jfif"
+hash = "956016268dcfa6d22d9091771ae0f191d3b7ed68f4881d3c489e708a359365f3"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ3cPIHWwAEsKBl.jfif"
+hash = "e6a4f63156ab275ed3f0c130e22512301141daf09fb389c67671a8d974b690b2"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ3vTymWkAAQx4G.jfif"
+hash = "6bd3cabd796f1256939377d56255c31f1a839cf60112bfa454cbf28370ced8a8"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJ3wXd0bIAAhDEB.jfif"
+hash = "0b173e5922aeece03f8cbf462749bae1a8e395079c5c6521c6592536ca1b151a"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJtr03qaMAAPKwP.png"
+hash = "6c7471b3e2a293d9d3640ac1f8776fb958c03077c7a27dfa9003f1b64be48b1a"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJxzBfEXUAAei_w.jfif"
+hash = "627f480452fa4fc895de7929fe6c0531f79b713d5330d1f4fa8df7e0b25483ae"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/GJzTeIDWEAECFaV.jfif"
+hash = "6a4da9fef80acafd31af73addc1ce6555b55536178fa752b1876575f3476e3f9"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/bafkreiaoqoieocdh4ydcvnv6gd2ktzyj23mhyyf4mgll6tunbtgomfuraajpeg.png"
+hash = "441739a92f43eaafbac42b86b63a5f127d37fae36a228c5cf2b2f5f573b21321"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/bafkreib7p4hkw6ouw4w3ex4n2ymopxbd7zy4fdvk525vkv2ycxa6a22boijpeg.png"
+hash = "7039e9e7df46560b7b3a5dcd03f1394ebd4dec00455bccbad39678650806c18a"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/bafkreibt5c6aaxy73ou6zqgjnryknmrog2ths3me22soldulk7dbqgpxz4jpeg.png"
+hash = "f99a27ad658119811e92049cca9ee349b3ea460860dcd73ea511380820ac54ab"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/bafkreicahlniqeirqkcppcvodqp3hd5mx4s43ij7n7ukbjqeshvhdrnhumjpeg.png"
+hash = "8e3f839ec5640bd61f19c5130f78286f5c693e7859d221dcb63d79f85d5ca3fe"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/bafkreicyguimvreafrcw4j6ot4bwd37xoh46gsivibt7fyitbtwdsey6sijpeg.png"
+hash = "d36c22ba4c2879543a39ac815f65593d7031aad9fd24435c34758abff8fe829a"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow maybe/bafkreihfw34pqdcwnzpcwqredbkjnjpxgpgtdyecfrvxbd2lfk745uljaejpeg.png"
+hash = "b1d3fbd610be053c62265c4fba9f728c7b01b60ab2195a494010a674febdc075"
+
+[[files]]
+file = "config/fancymenu/assets/x-files.ttf"
+hash = "f6a1427a11e5365020f4515eddc168ff38658fb0ce8f5f5da71df8c5cc4a25ef"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "04e3bd0105c2eb0a64e96b8c5e320202e075077c188ef42b11ce0948dd0f0cbf"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "7caad7b68980c3d84e6cf24b39a9695334bb4a60140fb54535c47ffe17ab03e7"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "7a1fb429ea58390a9e7585dec6d3ad588bae72201d6d3ef644ab56ca0aa87c6e"
+
+[[files]]
+file = "config/fancymenu/customization/controls_screen_layout.txt"
+hash = "770edb72d874df410f759616e748366a77693e75c4598e21dfeb9d265a0d0c0d"
+
+[[files]]
+file = "config/fancymenu/customization/create_world_screen_layout.txt"
+hash = "ae8b04ce958d2f413876468f62fa02a0ea2ae181fd9445fb286b67393a0ea61f"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "ba656f4b088bb94d0b529833c3e1def595ac694ca4750550c26494353d9c0dff"
+
+[[files]]
+file = "config/fancymenu/customization/singleplayercreateworld.txt"
+hash = "58f5d228f13fd6f61673886992b8524c5a918a864bbeb9e328925de7d70131b8"
+
+[[files]]
+file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
+hash = "193342e8afc76becf4673e7de58ebd76422d17e272fa05ac5a5148a6d8793160"
+
+[[files]]
+file = "config/fancymenu/customization/test.txt"
+hash = "3dc17fd60238b0f546cb5fae4c153e6d964e1afbe24ede71c86ab4394d284ecb"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "2b7c7043ed817795689599977bc538e67b1fe3b7db55af16112734a9365f94dd"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout1.txt"
+hash = "0078ac3ebfdc80ffd5dfca2499707c9e42b498f0a121a978a2f43235356380aa"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_1.txt"
+hash = "ffe5230fffe8c9654de0631a36195a95f78fb181c6af6c7dd224da68b94d4713"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "965d05cba1bc811142992bc185a2ab3a5aad1044c3c21ea16d6dbddf8bff782e"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "39bc9ba732cadc863248138daaf16bad324461e3882ffca9edf6d3d00c83283a"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama/panorama_0.png"
+hash = "84eee0ff44744a4e4278d79d26bb551309934e24903d9f05cd553d9ddc3d3d8a"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama/panorama_1.png"
+hash = "4eb948f80fc3a5cc1e82a3d67eda83eb837265abf30c8ba3093d6803300a6904"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama/panorama_2.png"
+hash = "83d10be39a07cdd13c0d1c9e6539464ccc6f279c5ce75b1ef174c40ffd98562f"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama/panorama_3.png"
+hash = "76c3d81affa7cd4ec52e08d6708869df8b2499a308cac5ad946143fd7fe426bf"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama/panorama_4.png"
+hash = "0b426ff163b124d97e89d74883f7e96e55a790b0050954e34c29e03e0d9cd34a"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama/panorama_5.png"
+hash = "8120620ba6870901a6607b27b51a57ff91441a50f672662490c3f6fd401f5841"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/properties.txt"
+hash = "88eb331121fc1e5b53b4e430d10743e6ce229f94a6bdb38c2b365c14f9c178e4"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/panorama/panorama_0.png"
+hash = "1122d89ee5189991afb7471ff510667d84616f46e435b2641e65e5ee09ee60f2"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/panorama/panorama_1.png"
+hash = "c43432fad145dc48537d2a3665861b3f2739f5edc45c4ef82eed1964fff3c8af"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/panorama/panorama_2.png"
+hash = "fe1f0173fb28c85f138a10dbf9e0eaf0f9f62f605237fa13b39a9e75abbde9f8"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/panorama/panorama_3.png"
+hash = "0649fc4836230c8c7ffb7832618e5b931597cab335983c10ff8423ffcbaa0f60"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/panorama/panorama_4.png"
+hash = "79a839a239ac475af5bcf6e6aa7b3fb3900052de55b7fabff89e35bba0a85414"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/panorama/panorama_5.png"
+hash = "0885991e1e6526fc425867f63f8e9620b9c77fbd67f7c46f5b5aa3eca58f12bc"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram2/properties.txt"
+hash = "b0eeb68f89e6a2c9d6d9a36165d1c5e885e7474af1f326a278bb003b51c0647b"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_1.jpg.jpg"
+hash = "be99fba232335749c1f049206afd86ed0c364f4b414c189a8c8fe8275d462b92"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_10.jpg"
+hash = "190c188440b1738cb3c682749b92a5f1882deb3ed80d2c792a4980f8b4a6e497"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_11.jpg"
+hash = "3239b8d8ad3142706bb1ddec0d1213e81a40bd4d9af7e55e9326c646b0fba90f"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_12.jpg"
+hash = "f302c771429914e1bac1c57115e809716b02c3d260f51c6ae5d09967786ec816"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_14.jpg"
+hash = "032d97bd0f47aed903230307dcb972fb14a1812d848dc065566da61e4be31d91"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_15.jpg"
+hash = "deeb37cc790dcbaf4c5e007290226ebb45704783551dd0baf46e7153bb5d5664"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_16.jpg"
+hash = "bf64151fab11088b0fc17a8e37bdcdcb5a82dadc3f8a1be0099af757248d7c40"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_17.jpg"
+hash = "a07bc0c3b577b0446189c79894ef77f939ae909aedc5653c10c5441964db2e1d"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_18.jpg"
+hash = "620c7a7456fe84e00c5cc5eb4d01dd96349d6a4281424b8248600dee2fb5c7aa"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_19.jpg"
+hash = "bad19af6185ab3c43c965ec4ed7b0e2a995a91031dc8579648fd576306d61583"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_2.jpg"
+hash = "33f9d1d06aaefd58d7b503e4a86c8c87eb72b01d1a82d20a535ce4b1dedd7474"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_20.jpg"
+hash = "ac0445ee1b1c70c1e7a3cdf1ee44627d046fa4baebb3cb739d8050c21c770b9e"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_21.jpg"
+hash = "dd69bc02ed5a534d4f73fa92263270d069d96d27177dc6d2fafbd9aea60cd970"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_22.jpg"
+hash = "d8dbfdaaef89670e57e5a8d82b3d506dd04136a20dc682341625eea1590929d0"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_23.jpg"
+hash = "77f5d29906ebdecd3ad45b443322c4bad8424e5793eb5d22cc9b4c3f8b1f2b2b"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_24.jpg"
+hash = "345ea25b9fbf3a259075dc937b84a102d48a20f137bc4f9128a6d760138c87d3"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_25.jpg"
+hash = "abf3ac5d56ca94f642f663a0dd51c80622cab768d5dc5230383c0e006cbeeda8"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_26.jpg"
+hash = "71e811af9546481fc061d38d15dc460f783684b07595f2e5110a38b6420d0a11"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_27.jpg"
+hash = "d57c771e3473f3767ba1d26374fd91f3275962340d00d9e84dff58063f7a8090"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_28.jpg"
+hash = "2756f74615a0ab8b141d76976393a912fc1d22882f878ca536dc8b38b55797e1"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_29.jpg"
+hash = "e0cbb0a0368c7ca3cee473e6c29d1646781b82cf944e61be5dc7956160e84ee6"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_3.jpg"
+hash = "ac7a20fbd661f46c56a2aebe43854d9da28ccbaa59da2cff379555f51018cec7"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_30.jpg"
+hash = "904dffe8e57cdfb6e8dcfa27ec3fe6f9d610ba0027e107e3cbb259d04be647f1"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_31.jpg"
+hash = "c0f32a4763e5cbcad6757e8fee3774b1a16191e4e3f1e9f24ce208b0610e09a6"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_32.jpg"
+hash = "d113f44671c7ed31cac74120d6b8d25bde696e7340cf54c88ccb419514c6ae98"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_4.jpg"
+hash = "a6fec28928e414d6c74258a1c0e798dc960d82fb32705cfb2f451aeab70a7713"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_5.jpg"
+hash = "6304aad45ed6899f7a7eba441f1f1384807defdcd9a7d8e4e35137d45e485931"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_6.jpg"
+hash = "ca45b42d3bf0f7c085ca0b4e194d83899068e6b288a2680d04ff1981a1c764ab"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_7.jpg"
+hash = "ea2d4ede1c35681b5d7c7ebef9ab37cd275ca97b1ae7ba5d4ccd910f0c66e7a1"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_8.jpg"
+hash = "b2a88740c39f8b764ac2e91da9beac57a7b98fe9c4ce0bee9d379b3f4d1c2bac"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/images/image_9.jpg"
+hash = "05616ddfd9efc6f72e4c66690628ce7b75e59185540333fad87f0d324f8f5d81"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow maybe/properties.txt"
+hash = "4dc57a4ac04e274560a94a17b08e2ee2a1e710a701f6f10169e6eaab32a28004"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/origins-common.toml"
 hash = "3f302d3e9272fd960b82ee0265d8224cf500d0895f2cc6e6e4eee9244856acf9"
 
