@@ -1,6 +1,7 @@
 name = "Sophisticated Core"
 filename = "sophisticatedcore-1.20.1-1.2.106.1235.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/nmoqTijg/versions/TeINP0pI/sophisticatedcore-1.20.1-1.2.106.1235.jar"

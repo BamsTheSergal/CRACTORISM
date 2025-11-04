@@ -1,6 +1,7 @@
 name = "Sophisticated Storage"
 filename = "sophisticatedstorage-1.20.1-1.4.13.1350.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/hMlaZH8f/versions/YAPQswrH/sophisticatedstorage-1.20.1-1.4.13.1350.jar"

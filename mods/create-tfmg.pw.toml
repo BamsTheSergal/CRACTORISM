@@ -1,6 +1,7 @@
 name = "Create: The Factory Must Grow"
 filename = "tfmg-1.0.2c.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/USgVjXsk/versions/ZdvRpjTA/tfmg-1.0.2c.jar"
