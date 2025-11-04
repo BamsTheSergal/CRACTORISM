@@ -3,17 +3,18 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1761036419013
+  last_edited_time = 1762227440469
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:631f4ea4-ceb5-4f60-9af0-44b24a302dd3-1761036357899] = [groups:][instances:]
+  [loading_requirement_container_meta:95028557-c3ad-490d-9fca-3eff8e22397f-1762227430097] = [groups:][instances:]
 }
 
 menu_background {
-  panorama_name = pram2
+  panorama_name = pram
+  instance_identifier = 55fcecca-37ac-454e-a709-f4b22af416fa-1762226315949
   background_type = panorama
 }
 
@@ -71,11 +72,12 @@ element {
   element_loading_requirement_container_identifier = 3ba7fc54-5f29-43cb-b27f-56c7a68b4fad-1761033811652
   [loading_requirement_container_meta:3ba7fc54-5f29-43cb-b27f-56c7a68b4fad-1761033811652] = [groups:][instances:]
   enable_parallax = false
-  parallax_intensity = 0.5
+  parallax_intensity_v2 = 0.5
   invert_parallax = false
   animated_offset_x = 0
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #5CA6EFFF
+  layer_hidden_in_editor = false
 }
 
