@@ -162,6 +162,11 @@ hash = "3f74c7069c0fb87ef59dd8eb54144f67b3277fb5f8533abe19b190c66dbb973e"
 metafile = true
 
 [[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
+metafile = true
+
+[[files]]
 file = "mods/create-waystones-recipes.pw.toml"
 hash = "88c68b9bea4b158f04f52a2bb1693397b745a74e557291acb7386e4df6f1dc34"
 metafile = true
