@@ -305,11 +305,6 @@ hash = "f1609426893fc2d7f4f7f971c1178c3cb21f5aa56a205f7b2de9b660b6caba33"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "7e70d2fcf6ccac75e47f159b634a7763f857f75454f105e5b8940e2d81e8f50d"
-metafile = true
-
-[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "abcf94635aff0a65a1690c3fb62665970183e34dd65bf6b5960fe0cdd154cc29"
 metafile = true
@@ -337,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "db35b6b9a263785d940cbdacef45a7eb50d9d6f4da5e5dfb007807cf7680bfe7"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "b5b8d5c21c400e7dcfcc1030e956daf6da467d1d8c94e50f3220a31a5bde1997"
 metafile = true
 
 [[files]]
@@ -487,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "9688981c77bf2593fcc08276ba00e064f8ca7cfd78ddf1645f1e2ea4908cb662"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "26128c623ad968101fb9e41411eb1e13890ab374db7bd0cfd50595318fd4bc2a"
 metafile = true
 
 [[files]]
@@ -666,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-forge.pw.toml"
-hash = "bf45d329011ba8b833c2aff773aadc7badfe4aff6b75be7f4cafd839e370867d"
+hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
 metafile = true
 
 [[files]]
@@ -677,11 +662,6 @@ metafile = true
 [[files]]
 file = "mods/origins-vampire.pw.toml"
 hash = "0a48c9b77d137746605e01713ed3e5339a83a369a9f1b5cf5ae7e1fb4ca8c76c"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "b4ffe32a98ae71a76d875dafa6f1d7bd7542c296930184b7924cc2238f4b5725"
 metafile = true
 
 [[files]]
