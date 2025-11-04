@@ -460,6 +460,11 @@ hash = "1c383e66311b5edd6d7116ae0544108d60450f58e94853126665d75d85561d68"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
+metafile = true
+
+[[files]]
 file = "mods/garnished.pw.toml"
 hash = "73702d36cf62bbd18dbfe60ef402a32fedc7600a3e4f4549109f406f721ae166"
 metafile = true
