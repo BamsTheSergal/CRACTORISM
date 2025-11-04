@@ -3,8 +3,8 @@ filename = "create_waystones_recipes-1.0.1.b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e250d5b8c340d5c9ae69276d5ace33421ca4f0b8"
+hash-format = "sha256"
+hash = "43df7eafeb4ad892a59fbf4a85fe5500a7043c80d44c1dc9d2bfd836324a3b97"
 mode = "metadata:curseforge"
 
 [update]

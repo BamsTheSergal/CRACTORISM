@@ -3,8 +3,8 @@ filename = "arthys_rpg_arms-2.1.4-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "082c2c718ea77b5b3d7db490136bb37269ce57e9"
+hash-format = "sha256"
+hash = "d0edab4a5f6d369ac1d033b751460a7ec799f8a722c7b1534d8226578351e642"
 mode = "metadata:curseforge"
 
 [update]

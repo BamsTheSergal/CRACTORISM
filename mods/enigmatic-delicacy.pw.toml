@@ -3,8 +3,8 @@ filename = "enigmaticdelicacy-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd21aaae52e3e750fd7f9ebd3a51d32424787517"
+hash-format = "sha256"
+hash = "87e19347770d62e7e37e95948aa89016ffecfba8ed6c15293fd884f671037a18"
 mode = "metadata:curseforge"
 
 [update]

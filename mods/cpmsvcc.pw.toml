@@ -3,8 +3,8 @@ filename = "cpm-svc-compat-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11d954eb33ddb8f15a4332139e441f242bbe9f6d"
+hash-format = "sha256"
+hash = "0c28901e12fe7993970bc4021e4cb85cdee53890024e1f562c9ea56a021f8e9d"
 mode = "metadata:curseforge"
 
 [update]

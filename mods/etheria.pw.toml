@@ -3,8 +3,8 @@ filename = "etheria-0.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4f9ad3fc4646ab7d66b5a2b0706f1746643b4d71"
+hash-format = "sha256"
+hash = "f7ecbabadf484a665df0687d2d26bdaf15fd4c929369f0086097deabe9c7f2d6"
 mode = "metadata:curseforge"
 
 [update]

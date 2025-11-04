@@ -3,8 +3,8 @@ filename = "craftedcore-5.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "af729f1d15bec9509f6c10c5de38261702d15717"
+hash-format = "sha256"
+hash = "226a69199507705d002d9768ee54089a0d3b0c94825f91e2f5849b4b4b0e6173"
 mode = "metadata:curseforge"
 
 [update]

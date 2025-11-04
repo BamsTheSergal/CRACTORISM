@@ -3,8 +3,8 @@ filename = "Arcane_EssencePlus.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a446c9c4a0ce26db56f0aa5eec636d2b2ab90916"
+hash-format = "sha256"
+hash = "c703437e7e615e0761fcce15c5e91a8588109318184cbd261c9e03305ea96100"
 mode = "metadata:curseforge"
 
 [update]

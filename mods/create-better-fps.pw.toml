@@ -3,8 +3,8 @@ filename = "createbetterfps-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "519f436f67c316db546cbab54a03fdbfd17fe9f1"
+hash-format = "sha256"
+hash = "606f7af0c384b3e3d99e8c77860627a68f1bd463b134d06a33bd2d49d93f0b78"
 mode = "metadata:curseforge"
 
 [update]

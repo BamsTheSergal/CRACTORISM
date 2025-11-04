@@ -3,8 +3,8 @@ filename = "additional_recipes-1.5.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "23d2d31cdb98f0be0dd744dd3c379f8c7e511fd2"
+hash-format = "sha256"
+hash = "27a20d754b7947ed0c1c9043fedefb882e18ab65ec3785afd67b30d15a8e8141"
 mode = "metadata:curseforge"
 
 [update]

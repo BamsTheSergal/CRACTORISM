@@ -3,8 +3,8 @@ filename = "amendments-1.20-2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bbbc45681cf8905651b977d4b53d7387a1103c4a"
+hash-format = "sha256"
+hash = "564f709a72cb3ada3cc66a838bda1f73c7012231542351be64b8ee086c4cf5ab"
 mode = "metadata:curseforge"
 
 [update]

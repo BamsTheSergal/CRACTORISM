@@ -3,8 +3,8 @@ filename = "cataclysm_spellbooks-1.2.7-1.20.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "16fa5aed8c6834bd56f04f44ebb21c8cb2b2dc8d"
+hash-format = "sha256"
+hash = "5be30c8b7c9c63ef2eff72e46322538be088328c6bf7adbffc6c1ece0ead5617"
 mode = "metadata:curseforge"
 
 [update]

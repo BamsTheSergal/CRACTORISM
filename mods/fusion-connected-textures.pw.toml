@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/p19vrgc2/versions/QQQGRmiY/fusion-1.2.11a-forge-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "825a5e40cbef69f2b346d6b15a9bdd1bd6129bd9ea165651326826e37d9ca54c073d5c4da090cb76c043bd15de8fa37ca26076a99f0f22a511f954a22d792f81"
+hash-format = "sha256"
+hash = "992b954322943e3ce9eeb16b327f8f1500a7840c62ad03fd279d4a7daa41c4c2"
 
 [update]
 [update.modrinth]

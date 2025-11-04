@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1qeWG44Y/versions/INHgsubH/Apugli-2.10.4%2B1.20.1-forge.jar"
-hash-format = "sha512"
-hash = "c811f018126f538f8bcc884223a8916725a022ab55ef7d9c8a693e30c1fac452bf7481ef08f0656a9aa3151ef1d66e23ed9b54c81e11be54c5b4f189fe4ee4a6"
+hash-format = "sha256"
+hash = "cb80aadaad42c9231056652c2c0ca05fed6160716e7f99c59d13d8d5cddd2e7c"
 
 [update]
 [update.modrinth]

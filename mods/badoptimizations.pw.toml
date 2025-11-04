@@ -3,8 +3,8 @@ filename = "BadOptimizations-2.3.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05961374fb4e561e063168d058b155f8415c6697"
+hash-format = "sha256"
+hash = "bf7f251b92c55d6359ec76e108150604158e698322bb8f87fb76213879765c1c"
 mode = "metadata:curseforge"
 
 [update]

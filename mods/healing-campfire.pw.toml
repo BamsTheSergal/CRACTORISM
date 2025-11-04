@@ -3,8 +3,8 @@ filename = "healingcampfire-1.20.1-6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "12ece5053d1a95133dca38627d256f90cc94b3aa"
+hash-format = "sha256"
+hash = "dc4a354f1ca28d42993815028eb6254b6395529825c42ccb08b7f139bde12873"
 mode = "metadata:curseforge"
 
 [update]

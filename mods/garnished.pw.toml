@@ -3,8 +3,8 @@ filename = "garnished-2.1.2+1.20.1-neoforged.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c19e709cafd9c558153d4590ed1ba526554cf44"
+hash-format = "sha256"
+hash = "4f3215d1c0d60bc501a40ad3cc3f2d069de3b35f5f8c34f8794abc79a19e9e43"
 mode = "metadata:curseforge"
 
 [update]
