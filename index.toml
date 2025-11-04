@@ -205,6 +205,26 @@ file = "defaultconfigs/unlitcampfire-server.toml"
 hash = "49d5dd163d23d6aef3c40eb0d43b40432e8599be3a7fdfd507a8c5d9a0296750"
 
 [[files]]
+file = "kubejs/assets/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip"
+hash = "3fc2e1c1da3ea87859283a11f880786993ae97324e057dedaf722ff8cc7d02de"
+
+[[files]]
+file = "kubejs/assets/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip"
+hash = "b8c24074ee7a1701512b41eabe5a78a8a0ada1e99fe00dd7e53bfc59892c41a9"
+
+[[files]]
+file = "kubejs/assets/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"
+hash = "4abf82c1c0f10cd55942312f9a0ada0955afa2d3a94b98ce0ddcb7f4e4e87781"
+
+[[files]]
+file = "kubejs/assets/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip"
+hash = "9ed7db6fdf2798f410f0feedd8d3853b0e0daf4725e004afec61cf24dbf9a7c0"
+
+[[files]]
+file = "kubejs/assets/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip"
+hash = "9f79bc118ea0c3bf4599dbc4cabd0c05e33459eafaad375611d67c4bbd7d44bd"
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "448de5c7390b4e6f7ad7ecb438af519055897ce5db6ef3130f3e17670aa435bf"
 metafile = true
@@ -280,6 +300,11 @@ hash = "c4402050d2a686cecc112aee451709d33c7c367021e6527a3786a0c458026d8f"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/cpmsvcc.pw.toml"
 hash = "fa8144a00e3f9addb40647065c5afc50247c30abe1d99b8c92466e91ec3bf978"
 metafile = true
@@ -302,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "f1609426893fc2d7f4f7f971c1178c3cb21f5aa56a205f7b2de9b660b6caba33"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
 metafile = true
 
 [[files]]
