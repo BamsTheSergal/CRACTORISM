@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/SFrRaocz/versions/Qp0kN5Uh/AnimatedDoors-RPv1.2.zip"
-hash-format = "sha256"
-hash = "f333c65cbd005dbf8051354c2758c649364e72a7469bf92aff5d25c91b4fbba7"
+hash-format = "sha512"
+hash = "488e153b2c92c3933a7e21b5c4f03fe8ddb6aa09e8f20901b35aadafdb2e4408376e1f2e5719aee744dffa5bbc158abd90b589e1ec3911245a88b5c0883b39b0"
 
 [update]
 [update.modrinth]
