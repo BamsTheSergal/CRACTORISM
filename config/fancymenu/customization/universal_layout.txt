@@ -1,0 +1,81 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1761036419013
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:631f4ea4-ceb5-4f60-9af0-44b24a302dd3-1761036357899] = [groups:][instances:]
+}
+
+menu_background {
+  panorama_name = pram2
+  background_type = panorama
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/ficsitinc.ogg
+  audio_instance_weight_0 = 1.0
+  audio_instance_1 = [source:local]/config/fancymenu/assets/faneffect.ogg
+  audio_instance_weight_1 = 1.0
+  audio_instance_2 = [source:local]/config/fancymenu/assets/nostalgium.ogg
+  audio_instance_weight_2 = 1.0
+  play_mode = shuffle
+  looping = false
+  volume = 1.0
+  sound_source = music
+  element_type = audio_v2
+  instance_identifier = d7bc92a2-30c6-4de3-b583-b21d743eeca1-1761034979469
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2562
+  auto_sizing_base_screen_height = 1440
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -51
+  y = 58
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3ba7fc54-5f29-43cb-b27f-56c7a68b4fad-1761033811652
+  [loading_requirement_container_meta:3ba7fc54-5f29-43cb-b27f-56c7a68b4fad-1761033811652] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #5CA6EFFF
+}
+
