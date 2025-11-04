@@ -1,0 +1,13 @@
+name = "Origins: Support"
+filename = "origins-support-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wMHXiTpn/versions/ywgOqToo/origins-support-1.5.jar"
+hash-format = "sha512"
+hash = "84c3300b11417498fb869e5415d13ebfa8a7e9eb59a3d429a720f982f4a7d6b3ddd2ea167cd3bd1e7491146165c7066eb4272866eb39f70e91c128003c8f2f31"
+
+[update]
+[update.modrinth]
+mod-id = "wMHXiTpn"
+version = "ywgOqToo"

@@ -1,0 +1,13 @@
+name = "VMinus"
+filename = "vminus-3.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4c470116a46c2c7c3c3c2b9e03afdfa847617ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6909271
+project-id = 1072978

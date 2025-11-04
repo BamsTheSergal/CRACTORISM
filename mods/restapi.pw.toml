@@ -1,0 +1,13 @@
+name = "RestApi"
+filename = "restApi-0.10.1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c58c467aacb70403c44a880a8b425ae4d7079775"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5041496
+project-id = 917700
