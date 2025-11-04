@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tfmg.pw.toml"
-hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
+hash = "6d376b1fef2413990358206165ee231095b08c5ef229df8ee96ae8c8d428036f"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+hash = "6f2228a2c8364467352de572c15c2b5dbdbd311307b76df0adf1545357c287c1"
 metafile = true
 
 [[files]]
@@ -377,6 +377,16 @@ hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
 metafile = true
@@ -562,6 +572,11 @@ hash = "a35e29f47de16333e3e72fad21dcddf9176828214d81b49b313f7ad35b41a6bf"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -598,17 +613,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6523ff47e30a56c902b9f49aadd42d377c5b4b21a634edce7001addbe10040f9"
+hash = "2eecccc5e042f3ada88033b64877fe9449200c6b829d9f29a160b306bf4d1642"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "301011d56bdc483d1e8671e2c3006350c33eb4ea111d921763238bd6922349e6"
+hash = "d0c7cb792f540d150d3dad5e67ed01428f3a245a3216a13a63fd7e2b86d58961"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4892293552b3f61ea0be7f7cfa9d636fb52a8fd84423b9a244bf0e968b4d0ba6"
+hash = "37a47466b9fae7be5257dd77a1039105cc2ea84a38a9935ec2a726960bbfe97b"
 metafile = true
 
 [[files]]
