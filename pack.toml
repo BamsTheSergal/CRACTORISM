@@ -1,0 +1,13 @@
+name = "Cractorism"
+author = "Kito"
+version = "2.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "151a682430538510194eac8bc2c2160cedd5be9306f3c4e9079baed0791dfd5b"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
