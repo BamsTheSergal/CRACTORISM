@@ -1,0 +1,13 @@
+name = "Iron's Spell Books: Arcane Essence Blocks"
+filename = "Arcane_EssencePlus.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a446c9c4a0ce26db56f0aa5eec636d2b2ab90916"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5624554
+project-id = 1083218

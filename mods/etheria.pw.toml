@@ -1,0 +1,13 @@
+name = "Etheria"
+filename = "etheria-0.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f9ad3fc4646ab7d66b5a2b0706f1746643b4d71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6878503
+project-id = 1100499

@@ -1,0 +1,13 @@
+name = "[Abandoned] Arthys' RPG Armory (ARA) - Forge"
+filename = "arthys_rpg_arms-2.1.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "082c2c718ea77b5b3d7db490136bb37269ce57e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5452713
+project-id = 909750
