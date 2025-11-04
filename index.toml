@@ -45,30 +45,6 @@ file = "config/fancymenu/assets/open.ogg"
 hash = "e0e7f128e06c3e78ae2566f494221c4653245d244746ae796a09ef8a1b15b670"
 
 [[files]]
-file = "config/fancymenu/assets/pram/panorama_0.png"
-hash = "84eee0ff44744a4e4278d79d26bb551309934e24903d9f05cd553d9ddc3d3d8a"
-
-[[files]]
-file = "config/fancymenu/assets/pram/panorama_1.png"
-hash = "4eb948f80fc3a5cc1e82a3d67eda83eb837265abf30c8ba3093d6803300a6904"
-
-[[files]]
-file = "config/fancymenu/assets/pram/panorama_2.png"
-hash = "83d10be39a07cdd13c0d1c9e6539464ccc6f279c5ce75b1ef174c40ffd98562f"
-
-[[files]]
-file = "config/fancymenu/assets/pram/panorama_3.png"
-hash = "76c3d81affa7cd4ec52e08d6708869df8b2499a308cac5ad946143fd7fe426bf"
-
-[[files]]
-file = "config/fancymenu/assets/pram/panorama_4.png"
-hash = "0b426ff163b124d97e89d74883f7e96e55a790b0050954e34c29e03e0d9cd34a"
-
-[[files]]
-file = "config/fancymenu/assets/pram/panorama_5.png"
-hash = "8120620ba6870901a6607b27b51a57ff91441a50f672662490c3f6fd401f5841"
-
-[[files]]
 file = "config/fancymenu/assets/sfx1.mp3"
 hash = "5e8b9dbf8708f852ef1588d03fa9fbe710e24c924e044e3adc33602e3759d661"
 
@@ -151,6 +127,30 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "39bc9ba732cadc863248138daaf16bad324461e3882ffca9edf6d3d00c83283a"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama_0.png"
+hash = "84eee0ff44744a4e4278d79d26bb551309934e24903d9f05cd553d9ddc3d3d8a"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama_1.png"
+hash = "4eb948f80fc3a5cc1e82a3d67eda83eb837265abf30c8ba3093d6803300a6904"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama_2.png"
+hash = "83d10be39a07cdd13c0d1c9e6539464ccc6f279c5ce75b1ef174c40ffd98562f"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama_3.png"
+hash = "76c3d81affa7cd4ec52e08d6708869df8b2499a308cac5ad946143fd7fe426bf"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama_4.png"
+hash = "0b426ff163b124d97e89d74883f7e96e55a790b0050954e34c29e03e0d9cd34a"
+
+[[files]]
+file = "config/fancymenu/panoramas/pram/panorama_5.png"
+hash = "8120620ba6870901a6607b27b51a57ff91441a50f672662490c3f6fd401f5841"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
