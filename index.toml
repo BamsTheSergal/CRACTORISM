@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3391364edc8e38f90c692b82dfd09a26c293c24d80b08c307417ac223029352"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -477,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "9688981c77bf2593fcc08276ba00e064f8ca7cfd78ddf1645f1e2ea4908cb662"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
 metafile = true
 
 [[files]]
