@@ -3,11 +3,11 @@ filename = "Compat_FarmersDelight.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8033b3054b6d4e49e3d49b2277cf6e7c047835f1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JV5T8uGT/versions/Nj18IvDz/Compat_FarmersDelight.jar"
+hash-format = "sha512"
+hash = "b03d39d3f7e72dd83b69f38d9e9ba481da49098cc9dace5e088363d248c6786cc474993f32faa3f2e53e1894f9093e374c8a3f7b9daf100b8d07c0b4295f5e48"
 
 [update]
-[update.curseforge]
-file-id = 6503505
-project-id = 1150298
+[update.modrinth]
+mod-id = "JV5T8uGT"
+version = "Nj18IvDz"
