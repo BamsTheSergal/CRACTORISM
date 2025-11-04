@@ -90,7 +90,7 @@ hash = "ae8b04ce958d2f413876468f62fa02a0ea2ae181fd9445fb286b67393a0ea61f"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
-hash = "ba656f4b088bb94d0b529833c3e1def595ac694ca4750550c26494353d9c0dff"
+hash = "40e55b858487da79a1b3df3bcab487522cff5ae259ac25c091eb2235c25c7202"
 
 [[files]]
 file = "config/fancymenu/customization/singleplayercreateworld.txt"
@@ -102,7 +102,7 @@ hash = "193342e8afc76becf4673e7de58ebd76422d17e272fa05ac5a5148a6d8793160"
 
 [[files]]
 file = "config/fancymenu/customization/test.txt"
-hash = "3dc17fd60238b0f546cb5fae4c153e6d964e1afbe24ede71c86ab4394d284ecb"
+hash = "c09743dbca3ff5c30d2924653f8f5bce627dbddbc239f27688b2dae64662ec93"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -118,7 +118,7 @@ hash = "ffe5230fffe8c9654de0631a36195a95f78fb181c6af6c7dd224da68b94d4713"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "965d05cba1bc811142992bc185a2ab3a5aad1044c3c21ea16d6dbddf8bff782e"
+hash = "39a488dfb043431ca0f1945c19d025b497eeead8a9ff990758e479849c1e399e"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
