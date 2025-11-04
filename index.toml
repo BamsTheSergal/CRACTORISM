@@ -153,6 +153,10 @@ file = "config/fancymenu/panoramas/pram/panorama_5.png"
 hash = "8120620ba6870901a6607b27b51a57ff91441a50f672662490c3f6fd401f5841"
 
 [[files]]
+file = "config/fancymenu/panoramas/pram/properties.txt"
+hash = "bb38cf64cbf7cac98612109ed9f86dcb56ccec96ffdf6628399f784b053216f0"
+
+[[files]]
 file = "config/fancymenu/ui_themes/dark.json"
 hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
