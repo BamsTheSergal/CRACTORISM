@@ -169,6 +169,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/figura.json"
+hash = "9c47a439af16b5516822327d283e412d63403365925fb848081498bdf92d9fff"
+
+[[files]]
 file = "config/origins-common.toml"
 hash = "3f302d3e9272fd960b82ee0265d8224cf500d0895f2cc6e6e4eee9244856acf9"
 
