@@ -213,6 +213,11 @@ file = "kubejs/server_scripts/cractorism_main.js"
 hash = "830bd79ec92eb571cc88fea7d0dac519095756ee9815c9f44a9ffeb98089e207"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "eed03a69cacac3a826fc07806ad069b0ae605fefcedab2b2b8fcfa060eb60ebb"
+metafile = true
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "448de5c7390b4e6f7ad7ecb438af519055897ce5db6ef3130f3e17670aa435bf"
 metafile = true
@@ -228,6 +233,11 @@ hash = "faaba09df1f70ee85d991c1c99965a47b6101f88b3f32af78ad0d175e802f2d4"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
 file = "mods/apugli.pw.toml"
 hash = "6dcffbf7348201050a0b9abfbc34bbdcb805548c6e7b44918162e5b6a9fe9130"
 metafile = true
@@ -240,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/arthass-rpg-arms.pw.toml"
 hash = "5e18d52c544c5a7910e9a9fa2526438a9cfc4b6d79ba767ab049419111bee4a2"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
 
 [[files]]
@@ -418,6 +433,11 @@ hash = "cf57274fe109a18daca3204db8a56f2a8580fd3c55b8d8167e4978b101412f5b"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "8c22f1670662d5fb9920509f5378836676d8290f1204d128916e2cf8ea6513f1"
 metafile = true
@@ -483,6 +503,11 @@ hash = "d1a80068e60ad005fe9914290934e7850f09cf4551ca50abc00d481a972b0aaa"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "1f72f53e155c1b3b927ed3ed5c5747447e7713202a96c0d8255f98fe1d0ec94d"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "9c6af114c9a0b1249bccba2d2af147190df62b7caceda64240e88aa824d7fbe3"
 metafile = true
@@ -500,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "9688981c77bf2593fcc08276ba00e064f8ca7cfd78ddf1645f1e2ea4908cb662"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -648,6 +678,16 @@ hash = "95af997ce1952309bea53f064cbb32de69bce5916ee61438bec169012e183920"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f7f82c3216ba9bfac7b9d040d0a1845d94f693b70f9981f5caf497e81f73bfae"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7c323d0b883a0178d2fbb6c5da22e907420e06484a00c18bfe8c19ccbe502833"
 metafile = true
@@ -658,6 +698,11 @@ hash = "0bf3d664a18c217abb0f70d59734c7739f3a8c065b42e69b31623336aec88122"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "f443d9590411b7e8b1e67631525f5cd9ea1217176c3608af58776863939268c6"
 metafile = true
@@ -665,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "76d628f31ab652e4ef5baff0e0e385c4c05db0aeb19b543e63eae6be5cc09db9"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
