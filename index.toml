@@ -459,6 +459,11 @@ hash = "c4322a5cfd6f237afd99a5c838a195bb07d374c97b6c23d5d5fa77f22ec5c209"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "d183b3e8084b0605c4acbbc09b7d57f5de8a992f83a5745f69f850ab88073c0d"
 metafile = true
@@ -701,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/origins-vampire.pw.toml"
 hash = "0a48c9b77d137746605e01713ed3e5339a83a369a9f1b5cf5ae7e1fb4ca8c76c"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
