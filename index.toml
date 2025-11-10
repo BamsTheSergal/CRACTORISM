@@ -954,22 +954,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "bf80e336cf4ac7cc33ae97d1f4deac1fa94d5d1cb7c0ac6a2429c2d3120583f6"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-binaries.pw.toml"
-hash = "098130fdcb6a505a754ac48525182bd76845b8487e3c70e0fcd68e736c06f009"
+hash = "d0caa1c4b9734ec5e846dc7bdffe158604a176e276312b1abaac98b5cbd4918e"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "2748f1e5d253d178c51c7df6897af4744a5db77bd6507d6abcc257187f2c7109"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
+hash = "8410c20ee3088c4d8b5e46180f156642bc93f9b541e8d371c609f7276df21d5d"
 metafile = true
 
 [[files]]
