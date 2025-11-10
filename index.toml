@@ -338,6 +338,11 @@ hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
 metafile = true
 
 [[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "abcf94635aff0a65a1690c3fb62665970183e34dd65bf6b5960fe0cdd154cc29"
 metafile = true
