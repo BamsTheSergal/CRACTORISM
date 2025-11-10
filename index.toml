@@ -943,6 +943,16 @@ hash = "01841fd907035733fa7594d5fbebddc102a1ed6895319fd131cd247c5553884c"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "098130fdcb6a505a754ac48525182bd76845b8487e3c70e0fcd68e736c06f009"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2748f1e5d253d178c51c7df6897af4744a5db77bd6507d6abcc257187f2c7109"
+metafile = true
+
+[[files]]
 file = "mods/waystones-teleport-pets.pw.toml"
 hash = "8ff096e6ab1b287ad4d89f78c1b34f38942c5ae6c806bc4da18df478f5593e4f"
 metafile = true
