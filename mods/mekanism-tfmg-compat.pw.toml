@@ -1,0 +1,13 @@
+name = "Mekanism The Factory Must Grow Compatibility"
+filename = "mekanism_tfmg_compat-1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bobSIZE9/versions/ggCTPx3Z/mekanism_tfmg_compat-1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "635af1a09927c8c9f68e955cb22a2fe7a56e6d67a6ab316dbfcb81b1e1b52a47d60a2244939ab7b119594b0b049684fd136f35b10de463c585fd7778927375ea"
+
+[update]
+[update.modrinth]
+mod-id = "bobSIZE9"
+version = "ggCTPx3Z"
