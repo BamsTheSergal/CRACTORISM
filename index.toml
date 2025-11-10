@@ -210,7 +210,7 @@ hash = "49d5dd163d23d6aef3c40eb0d43b40432e8599be3a7fdfd507a8c5d9a0296750"
 
 [[files]]
 file = "kubejs/server_scripts/cractorism_main.js"
-hash = "830bd79ec92eb571cc88fea7d0dac519095756ee9815c9f44a9ffeb98089e207"
+hash = "7ac0ebca94b5ebbfb63327e02dc926aed9c14edea649aff12287eefc0793a711"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -543,6 +543,11 @@ hash = "a393c1eed533684a88c95928dfddf0d9850f7ddba1f1b5a7658498542f047223"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "00b99c6e27a898bd4032cf5e20b08e8b6c807c194d846f999aa6c4babb829cee"
+metafile = true
+
+[[files]]
 file = "mods/irons-spell-books-arcane-essence-blocks.pw.toml"
 hash = "46c03de7ade45e6c0a8ba3aba09c847d0963ca8975f33fe86d798ca0666fe79d"
 metafile = true
@@ -660,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "01839cd986cb7086545ff4ebcc20a0e6610e9a47deeaf69d07849f1c585b9231"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tfmg-compat.pw.toml"
+hash = "1c1258497883bf88c071ba1aa0383f081b26b2fb50f2b299fdf774803451bc80"
 metafile = true
 
 [[files]]
