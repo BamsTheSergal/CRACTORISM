@@ -1,0 +1,13 @@
+name = "WATERMeDIA: Multimedia API"
+filename = "watermedia-2.1.15.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G922NeHS/versions/nhiMbutY/watermedia-2.1.15.jar"
+hash-format = "sha512"
+hash = "596f897c9014bd1ac8a47a64cffd9e9a817075f65dfa1d2dc3fd617e8b5ef5ea6da447ff8b88b1c1bfb889c7bcfca33b792dbfd8d15a822f5eadaa37bb8049c8"
+
+[update]
+[update.modrinth]
+mod-id = "G922NeHS"
+version = "nhiMbutY"
